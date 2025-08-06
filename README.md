@@ -39,7 +39,7 @@ git clone https://github.com/YOUR_USERNAME/adabins-depth-estimation.git
 cd adabins-depth-estimation
 ```
 3. Install Required Dependencies
-Create and activate a virtual environment for clean installation.
+Create and activate a virtual environment with python 3.8 - 3.10 for clean installation.
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
